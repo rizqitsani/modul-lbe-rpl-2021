@@ -1,0 +1,7 @@
+.box {
+  max-width: 20rem;
+  border-radius: 5px;
+  background: lightblue;
+  margin: 1rem 0;
+  padding: 1rem 0.8rem;
+}
