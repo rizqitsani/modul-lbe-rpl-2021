@@ -23,6 +23,12 @@ const Home = () => {
         >
           Dynamic Page
         </Link>
+        <Link
+          to='/data-fetching'
+          style={{ display: 'block', textDecoration: 'none' }}
+        >
+          Data Fetching
+        </Link>
       </div>
     </div>
   );
